@@ -1,4 +1,4 @@
-# Web-Scraping-and-Semantic-Analysis-of-Scraped-Data
+# Web-Scraping-and-Semantic-Analysis-of-Scraped-Data using Gensim and BeatifulSoup
 This repo consist of some code using python libraries for completing the Web scraping of the event details from various websites and after gathering the data checking the data and do analysis for removing the duplicate events on same day at same location.
 
 In this project I have curated the data from the 3 different websites which consists of the data of Event Name, Date or say on which event is going to happen, Location of the event, and the prize of ticket for the event. And then I have used tf-idf ( tf - term frequency , and idf -  inverse document frequency ) for handling and checking the similarity for the various events with another events and it returns the matrix after calculating the same. 
